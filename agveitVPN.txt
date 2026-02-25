@@ -4,4 +4,5 @@ vless://be03103f-7e9d-07d0-8bf1-046792e3d579@lk-cdn.deploy-assure.ru:443?flow=&t
 vless://e28c3c89-48cd-07d0-bce6-8243a85040f3@89.208.228.139:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺Россия #4 | LTE + Wi-Fi
 vless://be03103f-7e9d-07d0-8bf1-046792e3d579@morgentop.ru:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺Россия #5 | LTE + Wi-Fi
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@fi.bvpn.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=qq&pbk=ltQR5dzeusl-F8K8Fbg84PNmZeBVYKowTBvxMnR3rRw&sid=d4078d1bab&spx=&sni=fi.bvpn.cc&type=tcp#🇫🇮Финляндия | Тест
+vless://969c32b0-be45-4995-bb71-85bbe8ba9b9e@fl.vles.space:2077?encryption=none&flow=&security=reality&fp=firefox&pbk=GPVE1gXtIAAF0-haYukGL_-fGSKeBhB1dQh-Nejuvyc&sid=aabbccdd&spx=&sni=api.ok.ru&type=xhttp#🇫🇮Финляндия | Тест 2
 
